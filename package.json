@@ -1,0 +1,24 @@
+{
+  "name": "xensor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "dotenv": "^6.2.0",
+    "openzeppelin-solidity": "2.3.0",
+    "truffle-flattener": "^1.2.11",
+    "truffle-hdwallet-provider": "^1.0.2",
+    "truffle-hdwallet-provider-privkey": "^0.3.0",
+    "web3": "^1.0.0-beta.55"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
